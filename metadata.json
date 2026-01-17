@@ -1,0 +1,5 @@
+{
+  "name": "Simulador do SISU da Júlia",
+  "description": "Um simulador de notas de corte do SISU personalizado, utilizando IA para estimar chances de aprovação em universidades brasileiras com base em notas do ENEM.",
+  "requestFramePermissions": []
+}
